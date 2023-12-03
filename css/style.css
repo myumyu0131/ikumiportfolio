@@ -1,7 +1,7 @@
 body {
   font-family: "Montserrat","Helvetica Neue",Arial,"Hiragino Kaku Gothic ProN","Hiragino Sans",Meiryo,sans-serif;
   font-size: 15px;
-  letter-spacing: .05em;
+  letter-spacing: .0.5em;
   color: #333;
 }
 
@@ -179,10 +179,6 @@ img {
 
 .works-item:nth-of-type(3n) {
   margin-right: 0;
-}
-
-.works-img img {
-  border: 1px solid #e6e6e6;
 }
 
 .works-name {
